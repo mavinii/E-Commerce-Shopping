@@ -8,4 +8,4 @@ You are required to create an e-commerce shopping website that dynamically displ
 
 ## Database
 - Microsoft SQL Server
-- update-database maybe it's necessary
+- the command `update-database` will be necessary for updating the database
